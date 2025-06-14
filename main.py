@@ -1,11 +1,2 @@
 print("Hello World")
 
-
-
-
-
-
-
-
-
-
